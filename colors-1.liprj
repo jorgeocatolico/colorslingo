@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LingoProject TargetLanguage="ar;fr;de;es" xml:lang="ar" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="11" flattenSnippets="false" SelectedTarget="" SourceControlBound="true" SourceControlProviderType="Git" ProjectGuid="fef23eca-5732-42eb-b87f-dc98faa37440">
+    <ProjectFile Source="Target/Colors_webinar.flprj" Target="Target/Colors_webinar.flprj" />
+</LingoProject>
