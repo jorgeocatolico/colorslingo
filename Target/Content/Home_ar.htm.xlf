@@ -2,7 +2,7 @@
 <xliff
   version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-  MadCap:translationStatus="untranslated">
+  MadCap:translationStatus="completed">
   <file
     xml:space="preserve"
     original="Home.htm"
@@ -48,50 +48,50 @@
         phase-name="pretrans"><source>Welcome to Color's Help</source><seg-source><mrk
             mtype="seg"
             mid="1">Welcome to Color's Help</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101">مرحبا بكم في مساعدة اللون</mrk></target></trans-unit><trans-unit
         id="2"
         restype="x-xml-h2"
         phase-name="pretrans"><source>The Place to Find Information, FAQs, and More on Colors</source><seg-source><mrk
             mtype="seg"
             mid="1">The Place to Find Information, FAQs, and More on Colors</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101">مكان للعثور على معلومات، أسئلة وأجوبة، وأكثر على الألوان</mrk></target></trans-unit><trans-unit
         id="3"
         restype="x-xml-h2"
         phase-name="pretrans"><source>Meet the Colors</source><seg-source><mrk
             mtype="seg"
             mid="1">Meet the Colors</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101">تلبية الألوان</mrk></target></trans-unit><trans-unit
         id="4"
         restype="x-xml-h2"
         phase-name="pretrans"><source>PDF Guides</source><seg-source><mrk
             mtype="seg"
             mid="1">PDF Guides</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101">بدف غيدس</mrk></target></trans-unit><trans-unit
         id="5"
         restype="x-xml-div"
         phase-name="pretrans"><source>View More PDFs</source><seg-source><mrk
             mtype="seg"
             mid="1">View More PDFs</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit></body>
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101">عرض المزيد ملفات بدف</mrk></target></trans-unit></body>
   </file>
 </xliff>

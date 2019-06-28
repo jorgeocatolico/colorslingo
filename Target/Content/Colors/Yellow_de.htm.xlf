@@ -2,7 +2,7 @@
 <xliff
   version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-  MadCap:translationStatus="untranslated">
+  MadCap:translationStatus="completed">
   <file
     xml:space="preserve"
     original="Yellow.htm"
@@ -49,11 +49,11 @@
             mtype="seg"
             mid="1"
             MadCap:parentConditions="|Colors.Yellow">Yellow</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101">Gelb</mrk></target></trans-unit><trans-unit
         id="2"
         restype="x-xml-p"
         phase-name="pretrans"><source>A color like that of egg yolk, ripe lemons, etc.; the primary color between green and orange in the visible spectrum, an effect of light with a wavelength between 570 and 590 nm. Dishonest in editorial comment and the presentation of news, especially in sacrificing truth for sensationalism, as in yellow journalism; yellow press.</source><seg-source><mrk
@@ -66,18 +66,18 @@
             mtype="seg"
             mid="3"
             MadCap:parentConditions="|Colors.Yellow">Dishonest in editorial comment and the presentation of news, especially in sacrificing truth for sensationalism, as in yellow journalism; yellow press.</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /><mrk
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101">Eine Farbe wie das Eigelb, reife Zitronen, etc .; die Grundfarbe zwischen grün und orange in dem sichtbaren Spektrum, ein Effekt, der Licht mit einer Wellenlänge zwischen 570 und 590 nm.</mrk><mrk
             mtype="protected"
             mid="2"
             MadCap:segmentStatus="Untranslated"
             MadCap:matchPercent="0" /><mrk
             mtype="seg"
             mid="3"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit></body>
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101">Unehrlich in redaktionellen Kommentar und die Präsentation von Nachrichten, vor allem in opfern Wahrheit für Effekthascherei, wie in gelb Journalismus; Yellow Press.</mrk></target></trans-unit></body>
   </file>
 </xliff>
