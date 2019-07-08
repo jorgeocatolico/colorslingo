@@ -2,7 +2,7 @@
 <xliff
   version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-  MadCap:translationStatus="untranslated">
+  MadCap:translationStatus="completed">
   <file
     xml:space="preserve"
     original="Orange.htm"
@@ -49,11 +49,11 @@
             mtype="seg"
             mid="1"
             MadCap:parentConditions="|Colors.Orange">Orange</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101">Orange</mrk></target></trans-unit><trans-unit
         id="2"
         restype="x-xml-p"
         phase-name="pretrans"><source>A color between yellow and red in the spectrum, an effect of light with a wavelength between 590 and 610 nm; reddish yellow. a globose, reddish-yellow, bitter or sweet, edible citrus fruit. This is new text.</source><seg-source><mrk
@@ -72,26 +72,26 @@
             mtype="seg"
             mid="5"
             MadCap:parentConditions="|Colors.Orange">This is new text.</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /><mrk
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101">Eine Farbe zwischen gelb und rot in dem Spektrum, eine Wirkung von Licht mit einer Wellenlänge zwischen 590 und 610 nm; rötlich gelb.</mrk><mrk
             mtype="protected"
             mid="2"
             MadCap:segmentStatus="Untranslated"
             MadCap:matchPercent="0" /><mrk
             mtype="seg"
             mid="3"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /><mrk
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101">ein kugelig, rötlich-gelb, bitter oder süß, essbaren Zitrusfrüchte.</mrk><mrk
             mtype="protected"
             mid="4"
             MadCap:segmentStatus="Untranslated"
             MadCap:matchPercent="0" /><mrk
             mtype="seg"
             mid="5"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit></body>
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101">Dies ist neuer Text.</mrk></target></trans-unit></body>
   </file>
 </xliff>

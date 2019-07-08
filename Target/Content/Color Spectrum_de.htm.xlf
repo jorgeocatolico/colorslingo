@@ -2,7 +2,7 @@
 <xliff
   version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-  MadCap:translationStatus="untranslated">
+  MadCap:translationStatus="in-progress">
   <file
     xml:space="preserve"
     original="Color Spectrum.htm"
@@ -82,85 +82,90 @@
             mtype="seg"
             mid="3">The color spectrum is key when working with <ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="General.ProductName" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>.</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /><mrk
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="100">Das <bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:annotation MadCap:createDate="2016-06-10T07:24:53.2450453-07:00" MadCap:creator="jbondoc" MadCap:initials="JB" MadCap:comment="hello world" MadCap:editor="jbondoc" MadCap:editDate="2016-06-10T07:24:55.7556700-07:00" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>sichtbar <ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:annotation&gt;</ept>Spektrum ist der Teil der <bpt
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:conditionalText MadCap:conditions="DoNotTranslate.DoNotTranslate" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>elektromagnetisch<ept
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:conditionalText&gt;</ept> Spektrum, das für das menschliche Auge sichtbar ist!</mrk><mrk
             mtype="protected"
             mid="2"
             MadCap:segmentStatus="Untranslated"
             MadCap:matchPercent="0" /><mrk
             mtype="seg"
             mid="3"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101">Das Farbspektrum ist der Schlüssel bei der Arbeit mit <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="General.ProductName" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>.</mrk></target></trans-unit><trans-unit
         id="4"
         restype="x-xml-p"
         phase-name="pretrans"><source>Here is a sentence to describe the color blue.</source><seg-source><mrk
             mtype="seg"
             mid="1"
             MadCap:conditions="Colors.Blue">Here is a sentence to describe the color blue.</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101">Hier ist ein Satz, die Farbe Blau zu beschreiben.</mrk></target></trans-unit><trans-unit
         id="5"
         restype="x-xml-p"
         phase-name="pretrans"><source>Here is a sentence to describe the color green.</source><seg-source><mrk
             mtype="seg"
             mid="1"
             MadCap:conditions="Colors.Green">Here is a sentence to describe the color green.</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101">Hier ist ein Satz, die Farbe Grün zu beschreiben.</mrk></target></trans-unit><trans-unit
         id="6"
         restype="x-xml-p"
         phase-name="pretrans"><source>Here is a sentence to describe the color orange.</source><seg-source><mrk
             mtype="seg"
             mid="1"
             MadCap:conditions="Colors.Orange">Here is a sentence to describe the color orange.</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101">Hier ist ein Satz, die Farbe Orange beschreiben.</mrk></target></trans-unit><trans-unit
         id="7"
         restype="x-xml-p"
         phase-name="pretrans"><source>Here is a sentence to describe the color purple.</source><seg-source><mrk
             mtype="seg"
             mid="1"
             MadCap:conditions="Colors.Purple">Here is a sentence to describe the color purple.</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101">Hier ist ein Satz, die Farbe Lila zu beschreiben.</mrk></target></trans-unit><trans-unit
         id="8"
         restype="x-xml-p"
         phase-name="pretrans"><source>Here is a sentence to describe the color red.</source><seg-source><mrk
             mtype="seg"
             mid="1"
             MadCap:conditions="Colors.Red">Here is a sentence to describe the color red.</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101">Hier ist ein Satz, die Farbe Rot zu beschreiben.</mrk></target></trans-unit><trans-unit
         id="9"
         restype="x-xml-p"
         phase-name="pretrans"><source>Here is a sentence to describe the color yellow.</source><seg-source><mrk
             mtype="seg"
             mid="1"
             MadCap:conditions="Colors.Yellow">Here is a sentence to describe the color yellow.</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101">Hier ist ein Satz, die Farbe Gelb zu beschreiben.</mrk></target></trans-unit><trans-unit
         id="10"
         restype="x-xml-p"
         phase-name="pretrans"><source>When mixing colors it may result in an <ph
@@ -168,10 +173,11 @@
             mtype="seg"
             mid="1">When mixing colors it may result in an <ph
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="Resources/Snippets/Caution.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>, be cautious.</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit></body>
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101">Wenn das Mischen von Farben kann es in eine Folge <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:snippetText src="Resources/Snippets/Caution.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>, sei vorsichtig.</mrk></target></trans-unit></body>
   </file>
 </xliff>

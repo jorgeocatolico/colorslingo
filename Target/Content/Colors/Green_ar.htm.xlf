@@ -2,7 +2,7 @@
 <xliff
   version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-  MadCap:translationStatus="untranslated">
+  MadCap:translationStatus="in-progress">
   <file
     xml:space="preserve"
     original="Green.htm"
@@ -49,11 +49,11 @@
             mtype="seg"
             mid="1"
             MadCap:parentConditions="|Colors.Green">Green</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101">أخضر</mrk></target></trans-unit><trans-unit
         id="2"
         restype="x-xml-p"
         phase-name="pretrans"><source>a color intermediate in the spectrum between yellow and blue, an effect of light with a wavelength between 500 and 570 nm; found in nature as the color of most grasses and leaves while growing, of some fruits while ripening, and of the sea. The color of growing foliage, between yellow and blue in the spectrum. sdf</source><seg-source><mrk
@@ -75,16 +75,16 @@
           state="needs-translation"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /><mrk
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101">وسيط اللون في الطيف بين الأصفر والأزرق، وتأثير الضوء مع الطول الموجي بين 500 و 570 نانومتر. وجدت في الطبيعة كما لون معظم الأعشاب والأوراق في حين تنمو، من بعض الفواكه في حين النضج، والبحر.</mrk><mrk
             mtype="protected"
             mid="2"
             MadCap:segmentStatus="Untranslated"
             MadCap:matchPercent="0" /><mrk
             mtype="seg"
             mid="3"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /><mrk
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101">لون أوراق الشجر المتنامية، بين الأصفر والأزرق في الطيف.</mrk><mrk
             mtype="protected"
             mid="4"
             MadCap:segmentStatus="Untranslated"
