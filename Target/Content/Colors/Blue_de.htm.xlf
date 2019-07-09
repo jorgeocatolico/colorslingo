@@ -49,10 +49,10 @@
             mtype="seg"
             mid="1"
             MadCap:parentConditions="|Colors.Blue">Blue</mrk></seg-source><target
-          state="needs-review-adaptation"><mrk
+          state="needs-translation"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="ContextMatch"
+            MadCap:segmentStatus="Untranslated"
             MadCap:matchPercent="101">Blau</mrk></target></trans-unit><trans-unit
         id="2"
         restype="x-xml-p"
